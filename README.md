@@ -1,6 +1,9 @@
 # ELK
 MY ELK STACK PROJECT
 
+![image](https://user-images.githubusercontent.com/98090770/235667964-31cf653c-d592-499e-86b8-6cd7e3d5af68.png)
+
+
 # 1. INTRODUCTION
  This project is about implementing Elasticsearch and Kibana in a Docker environment using docker-compose.I will be installing winlogbeat on my windows host machine to ship data to Elasticsearch and then test the visualization with Kibana.
 
