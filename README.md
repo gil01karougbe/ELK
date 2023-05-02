@@ -33,7 +33,7 @@ In general there is 2 way of implementing ELK:
 
 # 5. INSTALLATION
 
-      $ git clone https://github.com/your-username/ELK.git
+      $ git clone https://github.com/gil01karougbe/ELK.git
 
       $ cd ELK 
 
@@ -44,7 +44,7 @@ Access the Kibana web interface to visualize and analyze logs.
 
       http://localhost:5601
 
-# 7. WINLOGBEAT SETUP
+# 7. WINLOGBEAT 7.16.2 SETUP
 * Click on Add integrations and the select Beats only
 
 * Next navigate to end of the page to find Windows Event Logs
