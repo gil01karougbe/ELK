@@ -25,7 +25,7 @@ Winlogbeat is a lightweight log shipper that allows you to forward Windows event
 
 
 
-# 4. TOPOLOGIE
+# 4. TOPOLOGY
 In general there is 2 way of implementing ELK:
 * Install Beats on endpoints and configure them to ship data(Logs,Network traffic,..) to Logstash which is in charge of parsing these imputs and then send them to Elasticsearch and from here to
       Kibana.
